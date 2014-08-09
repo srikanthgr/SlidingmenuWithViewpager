@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SlidingmenuWithViewpager</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="action_settings">RightMenu</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string-array name="left_menu">
+        <item>LeftMenu1</item>
+        <item>LeftMenu2</item>
+        <item>LeftMenu3</item>
+        <item>LeftMenu4</item>
+        <item>LeftMenu5</item>
+        <item>LeftMenu6</item>
+        <item>LeftMenu7</item>
+    </string-array>
+    <string-array name="right_menu">
+        <item>RightMenu1</item>
+        <item>RightMenu2</item>
+        <item>RightMenu3</item>
+        <item>RightMenu4</item>
+        <item>RightMenu5</item>
+        <item>RightMenu6</item>
+        <item>RightMenu7</item>
+    </string-array>
+
+</resources>
